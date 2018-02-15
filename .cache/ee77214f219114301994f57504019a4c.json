@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<html>\n    <head>\n        <title>Hyperapp + Parcel</title>\n    </head>\n    <body>\n        <div id=\"app\"></div>\n        <script src=\"/dist/hyperparcel.js\"></script>\n    </body>\n</html>"},"hash":"295fbe2eb37f9461a547d6ed7ac16148","cacheData":{}}
